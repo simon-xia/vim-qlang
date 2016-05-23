@@ -1,3 +1,3 @@
 # vim-qlang
 
-a syntax highlight plugin for [qlang](http://example.net/)
+a syntax highlighting plugin for [qlang](https://github.com/qiniu/qlang)
